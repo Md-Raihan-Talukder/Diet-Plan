@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_health.xml",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\menu\\menu_health.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tips.xml",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\menu\\menu_tips.xml"
+    }
+]

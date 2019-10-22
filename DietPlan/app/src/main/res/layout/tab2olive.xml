@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/gradient"
+    tools:context="com.example.user.dietplan.Health$PlaceholderFragment">
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:gravity="fill_vertical"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:text="Olive Oil"
+            android:textAlignment="center"
+            android:textColor="#faf9f9"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView" />
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="350dp"
+            android:layout_height="250dp"
+            app:srcCompat="@drawable/olive"
+            android:id="@+id/imageView2" />
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:text="119 calories per tbsp\n\nEat 2 tbsp per day"
+            android:textColor="#faf9f9"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3" />
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:text="Olive oil is rich in good monounsaturated fat, making it an ideal food for heart health. In fact, studies show that replacing two tablespoons of saturated fat (found in butter and lard) with monounsaturated fat may reduce the risk of heart disease. But that's not the only reason to eat it. A study in the journal Nature reports that olive oil also has potent anti-inflammatory properties, meaning it can help reduce pain and swelling just like a dose of ibuprofen. In addition to cooking with olive oil and using it as a dressing for your salad, you can get even more in your diet by mixing a tablespoon or two into your daily protein shake."
+            android:textColor="#faf9f9"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4" />
+    </LinearLayout>
+</ScrollView>
+</RelativeLayout>

@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/gradient"
+    tools:context="com.example.user.dietplan.Health$PlaceholderFragment">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:gravity="fill_vertical"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            >
+
+            <TextView
+                android:text="Health And Fitness"
+                android:textAlignment="center"
+                android:textColor="#faf9f9"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView" />
+
+            <ImageView
+                android:layout_marginTop="10dp"
+                android:layout_width="350dp"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/health_and_fitness"
+                android:id="@+id/imageView2" />
+
+            <TextView
+                android:layout_marginTop="20dp"
+                android:text="While most people let work, family, social engagements and other priorities get in the way of exercise, really fit people make exercise a priority no matter what.
+
+Yes, this may mean having to get up 15 minutes earlier when you’d rather be sleeping, working out on vacation, or fitting in a workout even when your life seems busier than you can handle. But once you build up the habit, it actually becomes harder to not exercise because you become so used to prioritizing it in your life.
+"
+                android:textColor="#faf9f9"
+                android:textSize="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView3" />
+
+            <TextView
+                android:layout_marginTop="20dp"
+                android:text="“People who are fit are the same as anyone else. The only difference is their level of commitment.” – Boxing champion Laila Ali"
+                android:textColor="#faf9f9"
+                android:textSize="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView4" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

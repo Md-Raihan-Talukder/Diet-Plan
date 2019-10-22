@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_age.png",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_age.png"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_gender.png",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_gender.png"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_name.png",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_weight.png",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_weight.png"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_height.png",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_height.png"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_pass.png",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_pass.png"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_bmi.png",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_bmi.png"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_user.png",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_user.png"
+    }
+]

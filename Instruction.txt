@@ -1,0 +1,27 @@
+Project name : Android application on "Diet Plan"
+
+Platform : Android
+
+Features : 
+
+1. Online login and registration
+
+2. BMI calculation
+
+3. Daily exercise, routine, food according to BMI
+
+4. Some healthy food and tips for all user
+
+5. Live project
+
+Instruction :
+
+1. Import database first in localhost or online host
+
+2. Install android studio
+
+3. open project by android studio
+
+4. connect project with database by php files
+
+5. build and run project in phone

@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/gradient"
+    tools:context="com.example.user.dietplan.Health$PlaceholderFragment">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:text="Don't Eat 100%"
+            android:textAlignment="center"
+            android:textColor="#faf9f9"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView" />
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="350dp"
+            android:layout_height="250dp"
+            app:srcCompat="@drawable/eat"
+            android:id="@+id/imageView2" />
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:text="Sure, there’s that rare person with 5% body fat that refuses even a single bite of chocolate and seems to be ok with it. But most of us need to cheat a little in order to keep our sanity.
+
+Giving yourself a cheat meal or day every once in a while ensures you don’t feel bitter about your healthy diet and go crazy and binge on all the things you’re missing out on.
+"
+            android:textColor="#faf9f9"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3" />
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:text="So don’t feel guilty if you enjoy a cookie, some dark chocolate or your favorite treat once in a while—just don’t let it become too frequent of a habit or you’ll end up losing all that hard work you put in during your workouts.
+"
+            android:textColor="#faf9f9"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4" />
+    </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

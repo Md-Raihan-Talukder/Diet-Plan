@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/gradient"
+    tools:context="com.example.user.dietplan.Health$PlaceholderFragment">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:text="Fit people"
+            android:textAlignment="center"
+            android:textColor="#faf9f9"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView" />
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="350dp"
+            android:layout_height="250dp"
+            app:srcCompat="@drawable/active"
+            android:id="@+id/imageView2" />
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:text="You know that saying, “you are what you eat?” Well, you are who you eat with (and socialize with) as well.
+
+Think about it: if all your friends are constantly getting fast food and donuts for dessert, and always choosing sedentary activities like going to movies or sitting around for hours, what do you think you’re going to do? Probably eat junk and sit around all day too.
+"
+            android:textColor="#faf9f9"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3" />
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:text="On the other hand, if your friends are into healthy cooking, or trying new restaurants with local, fresh ingredients, and want to go bike riding or organize a pick up game of soccer for fun, you’re most likely going to join in and be more active as a result.
+
+This may be difficult at first if you have old friends with unhealthy habits, but you can try and encourage them to be healthy too with small adjustments to your usual activities—and you can always try and meet some new more active, healthy friends as well."
+            android:textColor="#faf9f9"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4" />
+    </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

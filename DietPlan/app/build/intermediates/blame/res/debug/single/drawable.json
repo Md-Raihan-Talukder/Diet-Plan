@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\instagram.png",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lot_of_sleep.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\lot_of_sleep.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\olive.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\olive.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exercise.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\exercise.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greentea.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\greentea.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fit.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\fit.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eggs.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\eggs.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleep.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\sleep.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_skype.png",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\logo_skype.png"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dont_eat.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\dont_eat.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\health_and_fitness.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\health_and_fitness.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eat.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\eat.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\milk.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\milk.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blackbeans.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\blackbeans.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\water.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\water.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient.xml",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quinoa.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\quinoa.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diet.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\diet.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fit_people.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\fit_people.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stay_alive.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\stay_alive.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\turkey.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\turkey.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetpotatoe.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\sweetpotatoe.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bread.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\bread.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\active.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\active.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dietplan.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\dietplan.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pppp.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\pppp.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beef.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\beef.jpg"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\project\\DietPlan\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\project\\DietPlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soy.jpg",
+        "source": "E:\\project\\DietPlan\\app\\src\\main\\res\\drawable\\soy.jpg"
+    }
+]
